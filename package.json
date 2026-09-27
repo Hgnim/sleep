@@ -1,0 +1,27 @@
+{
+  "name": "sleep",
+  "version": "1.0.0",
+  "description": "sleep time",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/types.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hgnim/sleep.git"
+  },
+  "keywords": [],
+  "author": "Hgnim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hgnim/sleep/issues"
+  },
+  "homepage": "https://github.com/Hgnim/sleep#readme",
+  "files": [
+    "src/",
+    "LICENSE",
+    "README.md"
+  ]
+}
